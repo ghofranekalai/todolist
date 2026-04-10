@@ -1,0 +1,5 @@
+body {
+    display: flex;           /* équivalent de d-flex */
+    flex-direction: column;  /* équivalent de flex-column */
+    min-height: 100vh;       /* équivalent de min-vh-100 */
+}
